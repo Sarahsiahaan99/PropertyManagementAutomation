@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Building Inspection</name>
+   <tag></tag>
+   <elementGuidId>9d74738b-1bd9-4a8b-b02b-592a88f47a75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.OSInline</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-Content']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f4d3606-09ae-4c2d-acba-02685c91f476</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OSInline</value>
+      <webElementGuid>89151240-112a-43b3-8386-9a87d95f6609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Building Inspection</value>
+      <webElementGuid>c982d97a-ee69-47b6-bb21-122f2f431ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-Content&quot;)/div[@class=&quot;list list-group OSFillParent&quot;]/div[@class=&quot;OSInline&quot;]</value>
+      <webElementGuid>fbb3ef4f-4ed7-451c-8242-481d75cacef5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-Content']/div/div</value>
+      <webElementGuid>9698af96-6c4a-429e-ad53-8d2ec247171e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PMA 1.0'])[1]/following::div[5]</value>
+      <webElementGuid>ff64ac5b-25a1-4186-933a-982d394dd1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Access'])[1]/following::div[7]</value>
+      <webElementGuid>b4ddcb29-982f-4be3-9d6f-45c497f533f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEFO'])[1]/preceding::div[2]</value>
+      <webElementGuid>3a6f475c-f861-4a57-93b0-7e17a1ed2532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>472b8dd4-07bd-46d2-973d-4f2dc7dba25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Building Inspection' or . = 'Building Inspection')]</value>
+      <webElementGuid>c58fbe48-9ffa-4e56-92cc-d1e8e242f16f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

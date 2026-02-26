@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ThemeGrid_Width10</name>
+   <tag></tag>
+   <elementGuidId>823429bd-2f52-4da8-ab3a-31520f323718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.application-name [data-image=&quot;&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' application-name ')]//*[@data-image = '']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>85986140-6989-4579-a5cd-1075439d02fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ThemeGrid_Width10</value>
+      <webElementGuid>5e94932e-9d1b-4404-b2d4-b771b903d313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/PropertyManagementApp_Web/img/PropertyManagementApp_Web.LogoBI.png?tHTBNZldA1Q2bektLg4C_g</value>
+      <webElementGuid>e2aaa81d-1a2c-4f19-bfdc-74c3c34e05fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6a0c46225094801466ea256a95b8973e</value>
+      <webElementGuid>9dbfc459-5750-4c73-a86e-65785e1f0869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' application-name ')]//*[@data-image = '']</value>
+      <webElementGuid>4b02ae09-6f96-46b2-a8ac-48b4e0edbf1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' application-name ')]//*[@data-image = '']</value>
+      <webElementGuid>7392be02-d08c-4b2f-8bc3-08b5b968ad5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/PropertyManagementApp_Web/img/PropertyManagementApp_Web.LogoBI.png?tHTBNZldA1Q2bektLg4C_g']</value>
+      <webElementGuid>5b5c6356-cbee-4501-bb47-2a0b264e6c0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
